@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Contact Center",
+    "owner": "Varadh",
+    "description": "Used for customer acquisition"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Component Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Raj"
+  }
+}
